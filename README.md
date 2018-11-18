@@ -385,9 +385,9 @@ HazardEdit
 
 ## Legal playgrounds
 
-Make sure to use sperate laptop not the one that's used on daily bases. On does platforms are users that have hacking skills so stay safe.
-
-* HackTheBox
+* HackTheBox (Make sure to use seperate environment not the one that's used on daily bases. Connecting to those challenges trough a VM (fora example, a kali VM) will be enough, since everyone is hacking on those platforms, so you don't become collateral.)
 https://www.hackthebox.eu/
 * Vulnhub
 https://www.vulnhub.com/
+* Overthewire
+http://overthewire.org/wargames/
