@@ -225,7 +225,7 @@ Pick a company and tell me:
 - an assessment of "are they just a cissp douche who doesnt care" or "are they legit, do they take shit seriously"
 - an assessment of "should I try to reach out this company for security services" based on their appetite for "actual security" not "checking boxes"
 
-Start up worpress from scratch:
+Start up wordpress from scratch:
 - linux, apache, php, mysql.
 - don't harden it, just make it live
 - once it's up, install wpscan on another host and scan the blog
@@ -382,3 +382,12 @@ Da532
 * https://www.youtube.com/user/iewan64
 HazardEdit
 * https://www.youtube.com/channel/UCG0LukbgMa6vJkA_JJ4Jepg
+
+## Legal playgrounds
+
+Make sure to use sperate laptop not the one that's used on daily bases. On does platforms are users that have hacking skills so stay safe.
+
+* HackTheBox
+https://www.hackthebox.eu/
+* Vulnhub
+https://www.vulnhub.com/
