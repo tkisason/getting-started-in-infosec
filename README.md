@@ -385,7 +385,7 @@ HazardEdit
 
 ## Legal playgrounds
 
-* HackTheBox (Make sure to use seperate environment not the one that's used on daily bases. Connecting to those challenges trough a VM (fora example, a kali VM) will be enough, since everyone is hacking on those platforms, so you don't become collateral.)
+* HackTheBox (Make sure to use seperate environment not the one that's used on daily bases. Connecting to those challenges trough a VM for example a kali VM will be enough, since everyone is hacking on those platforms, so you don't become collateral damage.
 https://www.hackthebox.eu/
 * Vulnhub
 https://www.vulnhub.com/
