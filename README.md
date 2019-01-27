@@ -391,3 +391,8 @@ https://www.hackthebox.eu/
 https://www.vulnhub.com/
 * Overthewire
 http://overthewire.org/wargames/
+
+
+## Misc interesting articles
+
+* Fergus Henderson - Software Engineering at Google: https://arxiv.org/pdf/1702.01715.pdf
