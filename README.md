@@ -112,6 +112,8 @@ Learn at least one high level language (Python, Ruby, Go… ):
    * One additional might be the official python tutorial. 
    * 2.x or 3.x? Learn Python3. 
    * Check out : https://ipython.org/ 
+   * Install Visual Studio Code, add the python plugin/lint and play around. 
+   * Also very cool python video tutorials: https://www.youtube.com/user/sentdex
 * I repeat, you don’t have to be an expert, but pass some problems so you get to at least to the mid of the intermediate list here:
    * https://adriann.github.io/programming_problems.html
 * This is also a great list:
