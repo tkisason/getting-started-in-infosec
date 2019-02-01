@@ -127,6 +127,7 @@ Get a solid intro to computer systems:
 * https://en.wikiversity.org/wiki/Introduction_to_Computer_Science
 * Some people like a book called “Computer Science Distilled: Learn the Art of Solving Computational Problems by W. Filho”
 * This is an awesome materiel in Computer Architecture: https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_ 
+* https://functionalcs.github.io/curriculum/
 
 Get some background on operating systems:
 * http://greenteapress.com/thinkos/thinkos.pdf
