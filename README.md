@@ -72,6 +72,12 @@ Read this (yes, it’s important):
 Dedicate at least 1h a day to learning how X works (where X is anything IT / Computer related), it doesn’t matter if you learn how to code in Python, how BGP works or how FreeBSD works, as long as you are learning more, you are getting better and better. 
 
 
+These three articles give a nice outline on how to learn:
+* https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/
+* https://azeria-labs.com/paradox-of-choice/
+* https://azeria-labs.com/the-process-of-mastering-a-skill/
+
+
 So, for starts, let’s talk about behaviour and some information, read this:
 * https://www.belfercenter.org/CyberPlaybook
 * https://theintercept.com/2017/11/19/how-to-protect-yourself-against-spearphishing-a-comic-explanation/
