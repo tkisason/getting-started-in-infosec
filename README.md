@@ -138,7 +138,7 @@ Get a solid intro to computer systems:
 Get some background on operating systems:
 * http://greenteapress.com/thinkos/thinkos.pdf
 * http://www.shubhro.com/2018/01/20/brushing-up-os-c/ 
-* https://web.stanford.edu/class/cs140e/syllabus/#schedule 
+* http://pages.cs.wisc.edu/~remzi/OSTEP/
 
 
 Get a feel on how the web looks/works:
