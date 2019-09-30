@@ -79,6 +79,7 @@ These three articles give a nice outline on how to learn:
 
 
 So, for starts, let’s talk about behaviour and some information, read this:
+* https://increment.com/security/approachable-threat-modeling/
 * https://www.belfercenter.org/CyberPlaybook
 * https://theintercept.com/2017/11/19/how-to-protect-yourself-against-spearphishing-a-comic-explanation/
 * https://medium.com/@thegrugq/campaign-information-security-ff6ac49966e1
