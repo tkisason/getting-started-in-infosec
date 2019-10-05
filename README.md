@@ -177,30 +177,28 @@ Specialities:
 ## Appsec / WebAppSec:
 
 * First: Write a couple of simple applications (a small blog engine, a twitter clone, a RESTfull API for a bookstore...)
-   * Preferably in PHP, Java, Python :) 
+   * Preferably in PHP, Java, Python, Golang :) 
    * Try to do it manually. Now use the most popular framework for that language.
-   * Be a semi competent junior web-dev before you 
+   * Be a semi competent junior web-dev before you try to do actuall appsec. We have too much people who can find bugs, but don't know how to code :( 
 * This is a good tutorial for beginners:
    * https://www.hacker101.com/ 
-* Read the entire Web Application Hackers Handbook (2ed or newer):
+* Read the entire Web Application Hackers Handbook (2ed or newer), it's a bit dated, but still good. Skim the parts about Flash etc...:
    * https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470
 * Read the entire Web Application Defenders Cookbook:
    * https://www.amazon.com/Web-Application-Defenders-Cookbook-Protecting/dp/B01B9A4AYQ 
 * Read the Tangled web:
    * https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886
-* Load OWASP broken web apps VM:
-   * https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project 
-* This is an interesting cheat sheet:
-   * https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/ 
 * Check out the following applications:
-* OWASP ZAP
-* Burp Suite
-* sqlmap
-* Dirb / gobuster / dirsearch
-* This is an interesting exercise to pass: https://www.obeythetestinggoat.com/pages/book.html#toc 
+* Run and configure OWASP ZAP on your machine (https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+* Try out Burp Suite too (it's available in Kali)
 * Run this: https://www.owasp.org/index.php/OWASP_Juice_Shop_Project , find all vulns :) 
+* Now, remember the small apps you wrote? Find vulns in them. Need help? Read trough:
+   * https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project
+   * https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents
+* This is an interesting exercise to pass: https://www.obeythetestinggoat.com/pages/book.html#toc 
 * This is a nice set of writeups on bug bounties:
    * https://pentester.land/list-of-bug-bounty-writeups.html 
+* Check out other appsec hackers tools like: Dirb / gobuster / dirsearch / sqlmap...
 
 
 ## Forensics / Reverse engineering
