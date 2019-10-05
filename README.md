@@ -13,11 +13,11 @@ For updates, just send a pull request or send me an e-mail.
 “I teached you so that one day you can teach other people...”
 * A guy who teached @milobit a lot of things. :) 
 
-**Note:** Expertise is important, and you should strive for expertise in one general field / speciality. Some people say that in average you need 7 years of dedicated work to become proficient and master a field. But with expertise, It’s important to learn concepts in other fields of study. You should strive to identify concepts, learn how things work from a broad outline and then be able to realize the limitations of your knowledge and learn something more about the topic you need.
+**Note:** Expertise is important, and you should strive for expertise in one general field / specialty. Some people say that on average you need 7 years of dedicated work to become proficient and master a field. But with expertise, It’s important to learn concepts in other fields of study. You should strive to identify concepts, learn how things work from a broad outline and then be able to realize the limitations of your knowledge and learn something more about the topic you need.
 * See: The T-Shaped individual
 
 
-o, if you can’t find any article any more, use archive.org and find a archived version. 
+o, if you can’t find any article any more, use archive.org and find an archived version. 
 
 Don’t mistake perceived expertise for actual expertise. Read about the Dunning-Kruger effect:
 * https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
@@ -46,7 +46,7 @@ Read your local misdemeanor and criminal laws!
 Understand this too: https://en.wikipedia.org/wiki/Locard%27s_exchange_principle 
 
 
-Like doctors, information security is a honour based profession:
+Like doctors, information security is an honour based profession:
 1. Always follow the law and don’t break the law.
 2. Don’t be evil
 3. Follow ethics and professional codes of conduct:
@@ -395,7 +395,7 @@ HazardEdit
 
 ## Legal playgrounds
 
-* HackTheBox (Make sure to use seperate environment not the one that's used on daily bases. Connecting to those challenges trough a VM for example a kali VM will be enough, since everyone is hacking on those platforms, so you don't become collateral damage.
+* HackTheBox (Make sure to use separate environment not the one that's used on daily bases. Connecting to those challenges through a VM for example a kali VM will be enough, since everyone is hacking on those platforms, so you don't become collateral damage.
 https://www.hackthebox.eu/
 * Vulnhub
 https://www.vulnhub.com/
