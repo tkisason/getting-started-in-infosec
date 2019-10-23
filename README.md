@@ -141,6 +141,8 @@ Get some background on operating systems:
 * http://www.shubhro.com/2018/01/20/brushing-up-os-c/ 
 * http://pages.cs.wisc.edu/~remzi/OSTEP/
 
+Get to know how databases work:
+* https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
 
 Get a feel on how the web looks/works:
 * https://www.codecademy.com/catalog/language/html-css (Learn HTML/CSS)
