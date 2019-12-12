@@ -194,6 +194,7 @@ Specialities:
 * Run and configure OWASP ZAP on your machine (https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 * Try out Burp Suite too (it's available in Kali)
 * Run this: https://www.owasp.org/index.php/OWASP_Juice_Shop_Project , find all vulns :) 
+* Pass the entire portswigger academy: https://portswigger.net/web-security
 * Now, remember the small apps you wrote? Find vulns in them. Need help? Read trough:
    * https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project
    * https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents
