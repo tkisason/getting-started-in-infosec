@@ -144,6 +144,9 @@ Get some background on operating systems:
 Get to know how databases work:
 * https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
 
+Get to know how networking works:
+* https://cs144.github.io/
+
 Get a feel on how the web looks/works:
 * https://www.codecademy.com/catalog/language/html-css (Learn HTML/CSS)
 * https://www.codecademy.com/learn/introduction-to-javascript (Get some basic intro to JS)
