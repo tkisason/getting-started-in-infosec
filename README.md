@@ -224,6 +224,35 @@ Specialities:
 * Read the Bitcoin paper: https://bitcoin.org/bitcoin.pdf 
 * All of the above show nice cryptographic systems. If you understand the above 3 papers, you will know how to research further. 
 
+## Open-source intelligence (OSINT):
+* Read some introductory articles to get familiar with what OSINT is:
+   * [First Draft: How to get started in online investigations with open-source information](https://firstdraftnews.org/latest/how-to-get-started-in-online-investigations-with-open-source-intelligence-osint/)
+   * [secjuice: An Introduction To Open Source Intelligence (OSINT) Gathering](https://www.secjuice.com/introduction-to-open-source-intelligence-osint/)
+   * [SecurityTrails: What is OSINT and how can I make use of it?](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it)
+   * [Columbia Journalism Review: A Guide to Open-Source Intelligence](https://www.cjr.org/tow_center_reports/guide-to-osint-and-hostile-communities.php)
+* Work your way through some training resources and guides:
+   * [**bellingcat guides:**](https://www.bellingcat.com/category/resources/how-tos/) e.g. ["a begginers guide to plane tracking"](https://www.bellingcat.com/resources/how-tos/2019/10/15/a-beginners-guide-to-flight-tracking/)
+   * [First Draft: Training](https://firstdraftnews.org/training/)
+   * [Explore the OSINT Framework](https://osintframework.com/)
+* Go through the [US Army Training Program (ATP 2-22.9): Open-Source Intelligence](https://fas.org/irp/doddir/army/atp2-22-9.pdf) to see what a more formal, advanced framework for OSINT looks like
+* A good book to read: [Open Source Intelligence Techniques](https://inteltechniques.com/book1.html)
+* Get your feet wet by practicing:
+   * Help find missing people - [Trace Labs: Crowdsourced Open Source Intelligence For Missing Persons](https://www.tracelabs.org/): [Watch a video explaining it here.](https://www.youtube.com/watch?v=2puBmXfi9Z0)
+   * [a Google a day](http://www.agoogleaday.com/)
+   * [Verif!cation Twitter Bot](https://twitter.com/quiztime)
+   * [Geoguessr](http://geoguessr.com/)
+* Blogs/Videos/Podcasts to follow:
+   * [bellingcat](https://www.bellingcat.com)
+   * [osintcurio.us](https://osintcurio.us/osintvideosandpodcasts/)
+   * [The OSINT Podcast](http://osintpodcast.com/)
+   * [Week in OSINT](https://medium.com/week-in-osint/week-in-osint-2019-43-bed274b01f26)
+
+* Other resources:
+   * [Awesome OSINT: A GitHub repo full of OSINT resources](https://github.com/jivoi/awesome-osintz)
+   * [Bellingcat's Online Investigation Toolkit](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit)
+   * [OSINT Techniques: Starting OSINT Research](https://www.osinttechniques.com/blog/starting-osint-research)
+   * [OSINT Rocket Chat](https://osint.team)
+
 
 # Interesting assignment lists:
 
