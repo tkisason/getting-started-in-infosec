@@ -314,117 +314,78 @@ Misc but interesting stuff:
 Youtube - Infosec Educational Playlist:
 * https://www.youtube.com/playlist?list=PL091tVBWhjdRwEx2alle3d-qkGO5Rh05i
 
+HackTricks - Penetration Methodologies:
+* https://book.hacktricks.xyz/
+
 # Youtube channels worth looking:
 
 **Really good stuff:**
-* https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w 
-* https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A
+* [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+* [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
 
 **Good stuff:**
-* https://www.youtube.com/channel/UCgKtZlTRV1ruNPO_QOhCpVw
-* https://www.youtube.com/channel/UChjC1q6Ami7W0E71TzPZELA
-* https://www.youtube.com/channel/UCaEgw3321ct_PE4PJvdhXEQ
-* https://www.youtube.com/channel/UCoFU24KMXmCi4Sl3KIFPSVg
-* https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g
-* https://www.youtube.com/channel/UCtThfJl65L04ukWp0XZi3yg
-* https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA
-* https://www.youtube.com/channel/UC4m2G6T18_JcjwxwtwKJijw
-* https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
-* https://www.youtube.com/channel/UCz2aqRQWMhJ4wcJq3XneqRg
-* https://www.youtube.com/channel/UC9Qa_gXarSmObPX3ooIQZrg
-* https://www.youtube.com/channel/UCio4BvuxdzRGWR9aXg7ztfQ
-* https://www.youtube.com/channel/UC0bkqrWNBKxGZi-4gIfaCpg
-* https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A
-* https://www.youtube.com/channel/UCF0HwgCMJ3ZXSktymhtIIqA
+* [Nickolai Zeldovich](https://www.youtube.com/channel/UCgKtZlTRV1ruNPO_QOhCpVw)
+* [Pentester Academy TV](https://www.youtube.com/channel/UChjC1q6Ami7W0E71TzPZELA)
+* [scanlime](https://www.youtube.com/channel/UCaEgw3321ct_PE4PJvdhXEQ)
+* [noopkat](https://www.youtube.com/channel/UCoFU24KMXmCi4Sl3KIFPSVg)
+* [Onur Mutlu Lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g)
+* [Marcus Niemietz](https://www.youtube.com/channel/UCtThfJl65L04ukWp0XZi3yg)
+* [Derek Rook](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA)
+* [Samy Kamkar](https://www.youtube.com/channel/UC4m2G6T18_JcjwxwtwKJijw)
+* [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+* [OJ Reeves](https://www.youtube.com/channel/UCz2aqRQWMhJ4wcJq3XneqRg)
+* [Metasploitation](https://www.youtube.com/channel/UC9Qa_gXarSmObPX3ooIQZrg)
+* [Infected Packets](https://www.youtube.com/channel/UCio4BvuxdzRGWR9aXg7ztfQ)
+* [PyMoondra](https://www.youtube.com/channel/UC0bkqrWNBKxGZi-4gIfaCpg)
+* [Murmus CTF](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A)
+* [fuzzysecurity](https://www.youtube.com/channel/UCF0HwgCMJ3ZXSktymhtIIqA)
 
 
 ## Etgar’s list:
 
 
 Liveoverflow
-* https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
-Murmus CTF
-* https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A
-Gynvael
-* https://www.youtube.com/user/GynvaelEN
-MalwareAnalysisHedgehog
-* https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A
-DefconConference
-* https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw
-TheExploiteers
-* https://www.youtube.com/channel/UC3yU54eqJZeAXMcJCErj_DQ
-CryptoCat
-* https://www.youtube.com/channel/UCEeuul0q7C8Zs5C8rc4REFQ
-TheSecurityTube
-* https://www.youtube.com/channel/UCBRNlyf9lURksAEnM-pyQdA
-S1GM4
-* https://www.youtube.com/channel/UCLzsoLvkQI7XXQfPG5XM47w
-Derek Rook
-* https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA
-Army cyber institute
-* https://www.youtube.com/user/ArmyCyberInstituteWP
-HackHappy
-* https://www.youtube.com/channel/UCVakgfsqxUDo2uTmv9MV_cA
-JackkTutorials
-* https://www.youtube.com/user/JackkTutorials
-Seytonic
-* https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA
-HackerSploit
-* https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q
-Abdelkader Belcaid
-* https://www.youtube.com/channel/UCCKCh5N2MLGhtqEqIZYjP1Q
-Cyber Security IPB
-* https://www.youtube.com/channel/UCH6CPf10u9uQu3w1DRhOliw
-Black Hat
-* https://www.youtube.com/watch?v=bfH_Ah5X9v8
-Tony Gambacorta
-* https://www.youtube.com/channel/UCGbeTQOPHwFikUlme8Txzvw
-GalaxyNinja Top-Hat-Sec
-* https://www.youtube.com/channel/UCI9pfCytpEy89dJmMAl6p1Q
-MalwareAnalysisForHedgehogs
-* https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A
-Candan BÖLÜKBAŞ
-* https://www.youtube.com/channel/UC7NmOUOJn0Vr5BrfzjgBD2A
-L!NK
-* https://www.youtube.com/channel/UCv6i6WVf-KeUeXFmp9oy29w
-HackersOnBoard
-* https://www.youtube.com/channel/UChGDEluRG9r5kCecRAQTx_Q
-NetSecProf
-* https://www.youtube.com/channel/UCyoaOIKSqZTiM9-QcoIbNSg
-howCode (general programming)
-* https://www.youtube.com/channel/UCovR8D97-8qmQ8hWQW0d3ew
-betaCoding
-* https://www.youtube.com/user/betacoding
-DrapsTV
-* https://www.youtube.com/user/DrapsTV
-Coding Tech
-* https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ
-Fun fun functions
-* https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
-Siraj Raval
-* https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
-Free Training
-* https://www.youtube.com/channel/UC3RYdKzMQmdz8I8IU2iQDZA
-OWASP
-* https://www.youtube.com/user/OWASPGLOBAL
-Elias Osif
-* https://www.youtube.com/channel/UCcxmD7gdooV5Qkb-6b8RU6w
-Deep Web Academy
-* https://www.youtube.com/channel/UCJ31aJo8U-ZaRnZ4Y27so_Q
-The PC Security Channel (TPSC)
-* https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg
-David Hoelzer
-* https://www.youtube.com/channel/UCpi0MkJ23w83bHpxA4ZvGFg
-CryptoCat
-* https://www.youtube.com/channel/UCEeuul0q7C8Zs5C8rc4REFQ
-Binary adventure
-* https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ
-OALabs
-* https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg
-Da532
-* https://www.youtube.com/user/iewan64
-HazardEdit
-* https://www.youtube.com/channel/UCG0LukbgMa6vJkA_JJ4Jepg
+* [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+* [Murmus CTF](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A)
+* [Gynvael](https://www.youtube.com/user/GynvaelEN)
+* [MalwareAnalysisHedgehog](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
+* [DefconConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
+* [TheExploiteers](https://www.youtube.com/channel/UC3yU54eqJZeAXMcJCErj_DQ)
+* [CryptoCat](https://www.youtube.com/channel/UCEeuul0q7C8Zs5C8rc4REFQ)
+* [TheSecurityTube](https://www.youtube.com/channel/UCBRNlyf9lURksAEnM-pyQdA)
+* [S1GM4](https://www.youtube.com/channel/UCLzsoLvkQI7XXQfPG5XM47w)
+* [Derek Rook](https://www.youtube.com/channel/UCMACXuWd2w6_IEGog744UaA)
+* [Army cyber institute](https://www.youtube.com/user/ArmyCyberInstituteWP)
+* [HackHappy](https://www.youtube.com/channel/UCVakgfsqxUDo2uTmv9MV_cA)
+* [JackkTutorials](https://www.youtube.com/user/JackkTutorials)
+* [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
+* [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+* [Abdelkader Belcaid](https://www.youtube.com/channel/UCCKCh5N2MLGhtqEqIZYjP1Q)
+* [Cyber Security IPB](https://www.youtube.com/channel/UCH6CPf10u9uQu3w1DRhOliw)
+* [Black Hat](https://www.youtube.com/watch?v=bfH_Ah5X9v8)
+* [Tony Gambacorta](https://www.youtube.com/channel/UCGbeTQOPHwFikUlme8Txzvw)
+* [GalaxyNinja Top-Hat-Sec](https://www.youtube.com/channel/UCI9pfCytpEy89dJmMAl6p1Q)
+* [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
+* [Candan BÖLÜKBAŞ](https://www.youtube.com/channel/UC7NmOUOJn0Vr5BrfzjgBD2A)
+* [L!NK](https://www.youtube.com/channel/UCv6i6WVf-KeUeXFmp9oy29w)
+* [HackersOnBoard](https://www.youtube.com/channel/UChGDEluRG9r5kCecRAQTx_Q)
+* [NetSecProf](https://www.youtube.com/channel/UCyoaOIKSqZTiM9-QcoIbNSg)
+* [howCode (general programming)](https://www.youtube.com/channel/UCovR8D97-8qmQ8hWQW0d3ew)
+* [betaCoding](https://www.youtube.com/user/betacoding)
+* [DrapsTV](https://www.youtube.com/user/DrapsTV)
+* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+* [Fun fun functions](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* [Free Training](https://www.youtube.com/channel/UC3RYdKzMQmdz8I8IU2iQDZA)
+* [OWASP](https://www.youtube.com/user/OWASPGLOBAL)
+* [Elias Osif](https://www.youtube.com/channel/UCcxmD7gdooV5Qkb-6b8RU6w)
+* [Deep Web Academy](https://www.youtube.com/channel/UCJ31aJo8U-ZaRnZ4Y27so_Q)
+* [The PC Security Channel (TPSC)](https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg)
+* [David Hoelzer](https://www.youtube.com/channel/UCpi0MkJ23w83bHpxA4ZvGFg)
+* [Binary adventure](https://www.youtube.com/channel/UCSLlgiYtOXZnYPba_W4bHqQ)
+* [OALabs](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)
+* [Da532](https://www.youtube.com/user/iewan64)
+* [HazardEdit](https://www.youtube.com/channel/UCG0LukbgMa6vJkA_JJ4Jepg)
 
 ## Legal playgrounds
 
