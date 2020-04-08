@@ -41,7 +41,7 @@ Read your local misdemeanor and criminal laws!
 * https://www.zakon.hr/z/52/Prekr%C5%A1ajni-zakon 
 
 
-**If you think about becoming an information security professional or a hacker in order to break into systems, DDoS etc, let’s get one thing straight, you will get caught, and put into jail (or worse). It’s inevitable (and why it is inevitable, you will know after you spend some time learning about forensics...).**
+**If you think about becoming an information security professional or a hacker in order to break into systems, DDoS etc, let’s get one thing straight, you will get caught, and put into jail (or worse). It’s inevitable (and why it is inevitable, you will know after you spend some time learning about forensics...). If you want a cool story, do some googling on how they caught "Dread Pirate Roberts" aka Ross Ulbricht**
 
 Understand this too: https://en.wikipedia.org/wiki/Locard%27s_exchange_principle 
 
