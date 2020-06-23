@@ -157,7 +157,8 @@ Important note: If you want to be an expert, let’s say in web application secu
 One of the key concepts for technical and organizational parts of security is threat modelling. Read the book by A. Shostack: “Threat Modeling: Designing for Security”
 * https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998 
 Second book you need to read is “Security Engineering” by Ross Anderson:
-* The whole book is available for free here: https://www.cl.cam.ac.uk/~rja14/book.html 
+* The whole book (get the third edition) is available for free here: https://www.cl.cam.ac.uk/~rja14/book.html
+* Lecture materials and videos are available here: https://www.cl.cam.ac.uk/teaching/1920/SWSecEng/materials.html
 * Or the print version of the book is available here: https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523
 
 
@@ -253,6 +254,10 @@ Specialities:
    * [OSINT Techniques: Starting OSINT Research](https://www.osinttechniques.com/blog/starting-osint-research)
    * [OSINT Rocket Chat](https://osint.team)
 
+## ICS / SCADA security
+
+* https://tisiphone.net/2020/06/21/so-you-want-to-learn-ics-security/
+* https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/
 
 # Interesting assignment lists:
 
