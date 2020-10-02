@@ -167,6 +167,14 @@ Second book you need to read is “Security Engineering” by Ross Anderson:
 * Check out this list of cognitive biases: https://en.wikipedia.org/wiki/List_of_cognitive_biases
 * Check out this list of common fallacies: https://en.wikipedia.org/wiki/List_of_fallacies
 
+## Learn how to write better
+* Vonnegut's recommendations are simple, and applicable to reports and documents https://kmh-lanl.hansonhub.com/pc-24-66-vonnegut.pdf
+* Read Zinsser's book "On Writing Well"
+* Read Strunk & White's Elements of Style: http://www.gutenberg.org/ebooks/37134
+
+## General carrer advice:
+* Moxie Marlinspike's carrer advice: https://moxie.org/2013/01/07/career-advice.html
+
 # Specializations
 
 
