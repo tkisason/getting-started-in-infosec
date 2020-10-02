@@ -225,7 +225,8 @@ Specialities:
 
 ## Forensics / Reverse engineering
 
-* Contributions required :) 
+* Contributions required :)  
+* The case of the stolen szechuan sauce is a nice guided forensics challenge image set and walkthrough: https://dfirmadness.com/the-stolen-szechuan-sauce/
 
 ## Cryptography:
 
