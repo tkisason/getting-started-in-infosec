@@ -161,6 +161,11 @@ Second book you need to read is “Security Engineering” by Ross Anderson:
 * Lecture materials and videos are available here: https://www.cl.cam.ac.uk/teaching/1920/SWSecEng/materials.html
 * Or the print version of the book is available here: https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523
 
+## Learn how to think
+* The list of awesome falsehoods will help you challenge your assumptions about understanding simpleish problems https://github.com/kdeldycke/awesome-falsehood
+* This repository of mental models helps guide better decisions: https://fs.blog/mental-models/
+* Check out this list of cognitive biases: https://en.wikipedia.org/wiki/List_of_cognitive_biases
+* Check out this list of common fallacies: https://en.wikipedia.org/wiki/List_of_fallacies
 
 # Specializations
 
