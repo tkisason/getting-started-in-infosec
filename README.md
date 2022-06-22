@@ -17,7 +17,7 @@ For updates, just send a pull request or send me an e-mail.
 * See: The T-Shaped individual
 
 
-o, if you can’t find any article any more, use archive.org and find an archived version. 
+If you can’t find any article any more, use archive.org and find an archived version, or even better, submit a pull request with a fix :) You can do it straight from the GitHub's UI. Just press the little pencil icon. 
 
 Don’t mistake perceived expertise for actual expertise. Read about the Dunning-Kruger effect:
 * https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
@@ -119,8 +119,8 @@ Learn at least one high level language (Python, Ruby, Go… ):
 * This is a nice tutorial:
    * https://www.codecademy.com/catalog/language/python
    * One additional might be the official python tutorial. 
-   * 2.x or 3.x? Learn Python3. 
-   * Check out : https://ipython.org/ 
+   * 2.x or 3.x? Learn Python3 as 2.7 is deprecated and not maintained anymore. 
+   * IPython is a very useful shell if you are starting out : https://ipython.org/ 
    * Install Visual Studio Code, add the python plugin/lint and play around. 
    * Also very cool python video tutorials: https://www.youtube.com/user/sentdex
 * I repeat, you don’t have to be an expert, but pass some problems so you get to at least to the mid of the intermediate list here:
@@ -195,33 +195,30 @@ Check this out:
 * Malwaretech’s  RE challenges: https://www.malwaretech.com/beginner-malware-reversing-challenges
 Specialities:
 
+Wrongbaud's introduction to RE with Ghidra course is pretty interesting and approachable:
+* https://github.com/wrongbaud/hackaday-u
+* https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra
 
 ## Appsec / WebAppSec:
 
 * First: Write a couple of simple applications (a small blog engine, a twitter clone, a RESTfull API for a bookstore...)
    * Preferably in PHP, Java, Python, Golang :) 
    * Try to do it manually. Now use the most popular framework for that language.
-   * Be a semi competent junior web-dev before you try to do actuall appsec. We have too much people who can find bugs, but don't know how to code :( 
-* This is a good tutorial for beginners:
-   * https://www.hacker101.com/ 
-* Read the entire Web Application Hackers Handbook (2ed or newer), it's a bit dated, but still good. Skim the parts about Flash etc...:
-   * https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470
-* Read the entire Web Application Defenders Cookbook:
-   * https://www.amazon.com/Web-Application-Defenders-Cookbook-Protecting/dp/B01B9A4AYQ 
-* Read the Tangled web:
-   * https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886
-* Check out the following applications:
-* Run and configure OWASP ZAP on your machine (https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
-* Try out Burp Suite too (it's available in Kali)
+   * Try to become a semi competent developer. We have a lot of people who can find bugs, but not enough people who can find bugs and fix bugs. Try to become competent in development as this will pay dividends down the road. 
+* Run and configure OWASP ZAP on your machine (https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), yes ZAP has come a long way in the last year or two. 
+* Try out Burp Suite Community Edition too (it's available in Kali)
+* PortSwigger's Web Security Academy is free (with user registration), but covers almost all crucial bases of todays webappsec:
+   *  https://portswigger.net/web-security
+   *  You can pass the challenges with burp community.
+* Rana Khalil has some walkthrough videos from the Web Academy (https://www.youtube.com/c/RanaKhalil101)
 * Run this: https://www.owasp.org/index.php/OWASP_Juice_Shop_Project , find all vulns :) 
-* Pass the entire portswigger academy: https://portswigger.net/web-security
 * Now, remember the small apps you wrote? Find vulns in them. Need help? Read trough:
    * https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project
    * https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents
 * This is an interesting exercise to pass: https://www.obeythetestinggoat.com/pages/book.html#toc 
 * This is a nice set of writeups on bug bounties:
    * https://pentester.land/list-of-bug-bounty-writeups.html 
-* Check out other appsec hackers tools like: Dirb / gobuster / dirsearch / sqlmap...
+* Check out other appsec hackers tools like: gobuster / dirsearch / sqlmap / ffuf...
 
 
 ## Forensics / Reverse engineering
