@@ -201,6 +201,7 @@ Wrongbaud's introduction to RE with Ghidra course is pretty interesting and appr
 
 ## Appsec / WebAppSec:
 
+* CS253 is a good university level course that you can watch for an intro: https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 * First: Write a couple of simple applications (a small blog engine, a twitter clone, a RESTfull API for a bookstore...)
    * Preferably in PHP, Java, Python, Golang :) 
    * Try to do it manually. Now use the most popular framework for that language.
