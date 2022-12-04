@@ -231,6 +231,8 @@ Wrongbaud's introduction to RE with Ghidra course is pretty interesting and appr
 
 ## Cryptography:
 
+* Go over Cryptography I by Dan Boneh (Stanford)
+   * https://www.coursera.org/learn/crypto
 * Read the book: Serious Cryptography by JP Aumasson
    * If you don’t understand anything from that book, research, google, etc. Make sure you understand the basic concepts and building blocks (primitives)
 * How do you use Elliptic curves for cryptography? Why do you have to use ECDH and ECDSA. 
