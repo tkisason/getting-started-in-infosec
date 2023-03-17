@@ -114,6 +114,8 @@ Pass the entire LinuxJourney tutorial: https://linuxjourney.com/
 
 As you get better and better, your curiosity will guide you to explore the systems in depth. Someone might download the entire Linux kernel source and read it through (or you won’t care about operating systems that much, and you will see how your favourite web programming framework works under the hood, or how that nice pair of bluetooth headphones communicate with your PC. It’s irrelevant what, curiosity and getting better and better in knowledge is what’s important)
 
+Check out the MIT's Missing Semester, it's a good resource on how to use the command line, text editors, etc:
+* https://missing.csail.mit.edu/
 
 Learn at least one high level language (Python, Ruby, Go… ):
 * This is a nice tutorial:
@@ -157,12 +159,17 @@ Get a feel on how the web looks/works:
 
 Important note: If you want to be an expert, let’s say in web application security, you should know how the web works and how web applications work in order to be successful. I.e. put in the work so you know how the underlying system works, and after that it will be easy to understand why something is broken (or to find if something is broken). For example, this is best seen in good developers, when you show them where they introduced a vulnerability, they instantly “get it” and know why this happened. They know the underlying concepts well enough to easily grasp the security concepts needed. This can be applied to any field: reverse engineering, hardware hacking, social engineering… 
 
-One of the key concepts for technical and organizational parts of security is threat modelling. Read the book by A. Shostack: “Threat Modeling: Designing for Security”
+One of the key concepts for technical and organizational parts of security is threat modeling. There are two books, i highly recommend "Threat Modeling" by Izar Tarandach and Matthew J. Coles:
+* https://www.oreilly.com/library/view/threat-modeling/9781492056546/ 
+
+Another great book threat modeling book is by A. Shostack: “Threat Modeling: Designing for Security”
 * https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998 
+
 Second book you need to read is “Security Engineering” by Ross Anderson:
 * The whole book (get the third edition) is available for free here: https://www.cl.cam.ac.uk/~rja14/book.html
 * Lecture materials and videos are available here: https://www.cl.cam.ac.uk/teaching/1920/SWSecEng/materials.html
 * Or the print version of the book is available here: https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523
+* If you can, read the latest edition. 
 
 ## Learn how to think
 * The list of awesome falsehoods will help you challenge your assumptions about understanding simpleish problems https://github.com/kdeldycke/awesome-falsehood
