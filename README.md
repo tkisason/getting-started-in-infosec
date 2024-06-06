@@ -79,6 +79,8 @@ These three articles give a nice outline on how to learn:
 * https://azeria-labs.com/paradox-of-choice/
 * https://azeria-labs.com/the-process-of-mastering-a-skill/
 
+If you want a high level course on information security, covering a large number of topics and concepts, consider the CS50 intro to infosec:
+* https://www.youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE
 
 So, for starts, let’s talk about behaviour and some information, read this:
 * https://increment.com/security/approachable-threat-modeling/
